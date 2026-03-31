@@ -2,7 +2,11 @@
 <h3 align="center">Full-Stack Developer focused on building problem-solving Generative AI systems | CS Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohansingh-code&label=Profile%20views&color=8a2be2&style=flat" alt="Profile Views" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=rohansingh-code&label=Profile%20views&color=8a2be2&style=flat" />
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=rohansingh-code&label=Profile%20views&color=6d28d9&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=rohansingh-code&label=Profile%20views&color=8a2be2&style=flat" alt="Profile Views" />
+  </picture>
 </p>
 
 <p align="center">
@@ -88,16 +92,6 @@
 
 ---
 
-### 🔝 Top Contributed Repos
-
-<p align="center">
-  <a href="https://github.com/rohansingh-code/hospitalManagementSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohansingh-code&repo=hospitalManagementSystem&theme=tokyonight" alt="Hospital Management System" />
-  </a>
-</p>
-
----
-
 ### 🧠 LeetCode Activity
 
 <p align="center">
@@ -109,7 +103,9 @@
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://visitcount.itsvg.in/api?id=rohansingh-code&icon=0&color=0" />
+    <source media="(prefers-color-scheme: light)" srcset="https://visitcount.itsvg.in/api?id=rohansingh-code&icon=0&color=6" />
     <img src="https://visitcount.itsvg.in/api?id=rohansingh-code&icon=0&color=0" alt="Visit Count" />
-  </a>
+  </picture>
 </p>
