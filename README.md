@@ -54,14 +54,37 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohansingh-code&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=rohansingh-code&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansingh-code&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=rohansingh-code&hide_border=true&background=00000000&ring=8a2be2&fire=8a2be2&currStreakLabel=8a2be2&sideLabels=c9d1d9&dates=8b949e&currStreakNum=f0f0f0&sideNums=f0f0f0" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=rohansingh-code&hide_border=true&background=00000000&ring=6d28d9&fire=6d28d9&currStreakLabel=6d28d9&sideLabels=1f2328&dates=57606a&currStreakNum=1f2328&sideNums=1f2328" />
+  <img src="https://streak-stats.demolab.com/?user=rohansingh-code&hide_border=true" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rohansingh-code&hide_border=true&bg_color=00000000&title_color=8a2be2&icon_color=8a2be2&text_color=c9d1d9&show_icons=true&include_all_commits=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rohansingh-code&hide_border=true&bg_color=00000000&title_color=6d28d9&icon_color=6d28d9&text_color=1f2328&show_icons=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohansingh-code&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansingh-code&hide_border=true&bg_color=00000000&title_color=8a2be2&text_color=c9d1d9&layout=compact&include_all_commits=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansingh-code&hide_border=true&bg_color=00000000&title_color=6d28d9&text_color=1f2328&layout=compact&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansingh-code&hide_border=true&layout=compact&include_all_commits=true&count_private=true" width="48%" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rohansingh-code&hide_border=true&area=true&bg_color=00000000&color=8a2be2&line=8a2be2&point=f0f0f0" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rohansingh-code&hide_border=true&area=true&bg_color=00000000&color=6d28d9&line=6d28d9&point=1f2328" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohansingh-code&hide_border=true&area=true" width="95%" />
+</picture>
+
+</div>
 
 ---
 
