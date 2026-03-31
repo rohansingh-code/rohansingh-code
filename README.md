@@ -2,11 +2,7 @@
 <h3 align="center">Full-Stack Developer focused on building problem-solving Generative AI systems | CS Student</h3>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=rohansingh-code&label=Profile%20views&color=8a2be2&style=flat" />
-    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=rohansingh-code&label=Profile%20views&color=6d28d9&style=flat" />
-    <img src="https://komarev.com/ghpvc/?username=rohansingh-code&label=Profile%20views&color=8a2be2&style=flat" alt="Profile Views" />
-  </picture>
+  <img src="https://komarev.com/ghpvc/?username=rohansingh-code&label=Profile%20views&color=8a2be2&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -103,9 +99,7 @@
 ---
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://visitcount.itsvg.in/api?id=rohansingh-code&icon=0&color=0" />
-    <source media="(prefers-color-scheme: light)" srcset="https://visitcount.itsvg.in/api?id=rohansingh-code&icon=0&color=6" />
+  <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=rohansingh-code&icon=0&color=0" alt="Visit Count" />
-  </picture>
+  </a>
 </p>
