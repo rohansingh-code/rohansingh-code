@@ -18,7 +18,7 @@
 
 ### 🧠 About Me
 
-- 🎓 I’m currently a 3rd-year **B.Tech student in CSE (IoT)** at **Techno Main Salt Lake**.
+- 🎓 I'm currently a 3rd-year **B.Tech student in CSE (IoT)** at **Techno Main Salt Lake**.
 - 🚀 **AI Integration Focus**: I focus on the architectural integration of **Generative AI** within full-stack environments to address functional challenges. Building features designed to solve specific user problems and drive measurable efficiency in complex workflows.
 - 💻 **MERN Stack Developer**: Delivering seamless, end-to-end user experiences through intelligent web apps.
 - 🌱 **Currently Learning**: Expanding my backend architecture capabilities with **Spring Boot** to engineer highly scalable systems that can support complex AI workloads.
@@ -40,6 +40,7 @@
   <br/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/> 
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express"/> 
+  <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/JPA-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="JPA"/> 
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> 
   <br/>
@@ -55,17 +56,20 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohansingh-code&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohansingh-code&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=rohansingh-code&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansingh-code&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
+---
+
 ### 🔝 Top Contributed Repos
+
 <p align="center">
-  <a href="https://github.com/rohansingh-code/WRITE_YOUR_REPO_NAME_HERE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohansingh-code&repo=WRITE_YOUR_REPO_NAME_HERE&theme=tokyonight" alt="Pinned Repo" />
+  <a href="https://github.com/rohansingh-code/hospitalManagementSystem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohansingh-code&repo=hospitalManagementSystem&theme=tokyonight" alt="Hospital Management System" />
   </a>
 </p>
 
